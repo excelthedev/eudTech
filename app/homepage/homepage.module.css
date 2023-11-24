@@ -1,0 +1,9 @@
+.imageHero {
+  background-image: url(../../public/images/bgimg.jpeg);
+  background: linear-gradient();
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+}
